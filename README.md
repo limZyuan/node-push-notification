@@ -1,5 +1,6 @@
 # node-push-notification
-Push notification functionality using web-push package with Node.js.
+
+Introduction to service workers to push notifications to users from a web application. 
 
 ## Build with
 - Express.js
